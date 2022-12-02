@@ -1,0 +1,1 @@
+export const cellKey = (i, j) => `${i}-${j}`;
